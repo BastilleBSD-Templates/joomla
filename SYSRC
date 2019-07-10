@@ -1,0 +1,7 @@
+apache24_enable=YES
+apache24_http_accept_enable=YES
+
+mysql_enable="YES"
+
+
+

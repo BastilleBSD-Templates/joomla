@@ -1,0 +1,14 @@
+apache24
+mysql80-server
+php73
+mod_php73
+php73-json 
+php73-mysqli 
+php73-session 
+php73-simplexml 
+php73-xml 
+php73-xmlreader 
+php73-zlib
+joomla
+
+
