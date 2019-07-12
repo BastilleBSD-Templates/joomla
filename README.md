@@ -1,6 +1,8 @@
 # joomla
 Bastille Template for a Joomla Content Management Jail
 
+ STATUS:  Testing
+
 APACHE INSTALL
 
 As instructed by the post-install message, add the following lines to 
